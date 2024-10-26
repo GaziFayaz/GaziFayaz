@@ -26,7 +26,11 @@
 
 <h2><img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats</h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=[GaziFayaz]&theme=tokyonight&hide_border=false)
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=GaziFayaz&theme=tokyonight&hide_border=false)
+
+</div>
 
 
 <!--
