@@ -9,6 +9,9 @@
 ###
 
 <div align="center">
+  <a href="https://gazifayazahmed.site" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-4285F4?style=flat&logo=googlechrome&logoColor=white" height="25" alt="website logo" />
+  </a>
   <a href="https://www.linkedin.com/in/gazi-fayaz-ahmed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
